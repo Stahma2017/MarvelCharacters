@@ -1,0 +1,3 @@
+package ru.myapplication.marvelcharactersapp.navigation.coordinator
+
+abstract class CoordinatorEvent
